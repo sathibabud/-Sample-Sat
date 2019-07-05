@@ -1,1 +1,1 @@
-# -Sample-Sat
+# Sample-Sat
